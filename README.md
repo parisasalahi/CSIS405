@@ -8,4 +8,4 @@ This project solves the Traveling Salesman Problem (TSP) using two approaches: B
 This project was developed as part of the CSIS 405 – Analysis of Algorithms course, fulfilling the requirement to implement an NP-complete problem using multiple techniques.
 
 Feel free to test the sample inputs provided!
-Note that the file named main.py is the program solved using brute force, and the file named dynamic.py is programmed using the Dynamic Programming algortihm with Bitmasking. 
+Note that the file named main.py is the program solved using brute force, and the file named dynamic.py is programmed using the Dynamic Programming algortihm with Bitmasking. Feel free to test out whichever programming language (java or python) you like best!
